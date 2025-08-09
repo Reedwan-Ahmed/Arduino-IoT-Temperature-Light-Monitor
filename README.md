@@ -18,7 +18,7 @@ I wanted to build a real IoT system with what I have: no extra modules, just Ard
   <img src="my_workspace.jpg" alt="My Workspace" width="30%"/>
 </p>
 
-
+##My YouTube video:https://youtu.be/ud7cvmcG3-s?si=15sxBfWfZDalmXrB
 ## How It Works
 
 ### Sensor Reading and Display
