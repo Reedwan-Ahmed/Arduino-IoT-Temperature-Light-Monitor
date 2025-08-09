@@ -1,8 +1,5 @@
-# Arduino-IoT-Temperature-Light-Monitor
-“IoT project using Arduino UNO with LDR and LM35 sensors, keypad for threshold setting, data upload to ThingSpeak using Python.”
-# Arduino IoT Temperature and Light Monitoring System
-
-This is my personal IoT project built with **Arduino UNO**, an **LDR sensor**, **LM35 temperature sensor**, and a **4x4 keypad**.  
+# Arduino-IoT-Temperature-Light-Monitoring System
+“My Project: IoT project using Arduino UNO with LDR and LM35 sensors, keypad for threshold setting, data upload to ThingSpeak using Python.”
 
 ## What it does  
 - Measures light intensity and temperature  
