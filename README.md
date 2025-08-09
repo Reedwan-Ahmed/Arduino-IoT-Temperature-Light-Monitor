@@ -13,7 +13,8 @@ I wanted to build a real IoT system with what I have: no extra modules, just Ard
 ##Picture:
 ![Hardware Setup](Arduino-IoT-Temperature-Light-Monitor/Hardware_Setup.jpg)
 ![Real-time Computer Screen](Arduino-IoT-Temperature-Light-Monitor/Computer_Screen_RealTime.png)
-![My Workspace](Arduino-IoT-Temperature-Light-Monitor/my_workspace.jpg)
+![My Workspace](https://github.com/USERNAME/REPO_NAME/blob/main/Arduino-IoT-Temperature-Light-Monitor/my_workspace.jpg?raw=true)
+
 
 
 ## How It Works
