@@ -10,10 +10,13 @@
 ## Why I made this  
 I wanted to build a real IoT system with what I have: no extra modules, just Arduino, sensors, and my PC as a challenge and the result is perfect.
 
-##Picture:
-![Hardware Setup](Arduino-IoT-Temperature-Light-Monitor/Hardware_Setup.jpg)
-![Real-time Computer Screen](Arduino-IoT-Temperature-Light-Monitor/Computer_Screen_RealTime.png)
-![My Workspace](https://github.com/USERNAME/REPO_NAME/blob/main/Arduino-IoT-Temperature-Light-Monitor/my_workspace.jpg?raw=true)
+## Project Gallery  
+
+<p align="center">
+  <img src="Arduino-IoT-Temperature-Light-Monitor/Hardware_Setup.jpg" alt="Hardware Setup" width="30%"/>
+  <img src="Arduino-IoT-Temperature-Light-Monitor/Computer_Screen_RealTime.png" alt="Computer Screen Real Time" width="30%"/>
+  <img src="Arduino-IoT-Temperature-Light-Monitor/my_workspace.jpg" alt="My Workspace" width="30%"/>
+</p>
 
 
 
