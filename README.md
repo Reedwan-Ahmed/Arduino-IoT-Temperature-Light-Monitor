@@ -13,11 +13,10 @@ I wanted to build a real IoT system with what I have: no extra modules, just Ard
 ## Project Gallery  
 
 <p align="center">
-  <img src="Arduino-IoT-Temperature-Light-Monitor/Hardware_Setup.jpg" alt="Hardware Setup" width="30%"/>
-  <img src="Arduino-IoT-Temperature-Light-Monitor/Computer_Screen_RealTime.png" alt="Computer Screen Real Time" width="30%"/>
-  <img src="Arduino-IoT-Temperature-Light-Monitor/my_workspace.jpg" alt="My Workspace" width="30%"/>
+  <img src="Hardware_Setup.jpg" alt="Hardware Setup" width="30%"/>
+  <img src="Computer_Screen_RealTime.png" alt="Computer Screen Real Time" width="30%"/>
+  <img src="my_workspace.jpg" alt="My Workspace" width="30%"/>
 </p>
-
 
 
 ## How It Works
