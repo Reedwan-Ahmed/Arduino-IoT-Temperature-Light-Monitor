@@ -11,6 +11,9 @@
 I wanted to build a real IoT system with what I have: no extra modules, just Arduino, sensors, and my PC as a challenge and the result is perfect.
 
 ##Picture:
+![Hardware Setup](Arduino-IoT-Temperature-Light-Monitor/Hardware_Setup.jpg)
+![Real-time Computer Screen](Arduino-IoT-Temperature-Light-Monitor/Computer_Screen_RealTime.png)
+![My Workspace](Arduino-IoT-Temperature-Light-Monitor/my_workspace.jpg)
 
 
 ## How It Works
